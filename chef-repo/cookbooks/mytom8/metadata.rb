@@ -1,24 +1,20 @@
-name 'mytestck'
+name 'mytom8'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
-description 'Installs/Configures mytestck'
-long_description 'Installs/Configures mytestck'
-version '0.1.6'
+description 'Installs/Configures mytom8'
+long_description 'Installs/Configures mytom8'
+version '0.1.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/mytestck/issues'
+# issues_url 'https://github.com/<insert_org_here>/mytom8/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/mytestck'
-
-depends 'java', '~> 3.2.0'
-depends 'mysql', '~> 8.0'
-depends 'chef-client', '~> 11.0.5'
+# source_url 'https://github.com/<insert_org_here>/mytom8'

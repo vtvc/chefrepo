@@ -6,14 +6,9 @@
 
 include_recipe 'java'
 include_recipe 'mytestck::mysql'
+include_recipe 'mytestck::webserver'
 include_recipe 'chef-client::default'
 
-package 'git' do
-    action :install
-end
 
-package 'apache2' do
-    action :install
-end
 
 
