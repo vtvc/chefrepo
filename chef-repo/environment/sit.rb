@@ -1,3 +1,3 @@
 name 'SIT'
-description 'The SIT environment'
-cookbook_versions  'mytestck' => '0.1.5'
+description 'this is SIT environment_description'
+cookbook_versions  'mywebserver' => '0.1.5'

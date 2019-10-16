@@ -1,0 +1,10 @@
+{
+  "id": "mysql",
+  "passwd": {
+    "encrypted_data": "1Ne1vR9cSCRPynGje8RSM/H/fpqkUb8hABCQbG5qFmelIhN1tNbbRfQUGjCT\n/dwB16XufEZ4Uy9CeWhMvhkgRxXBdaoiryVslytltKFfET8uR9rSxMLu4bEr\nEw/3w0fZ+oTciyTLmvyMw2Aq7rVt6vyLgp/kNog+m7zsawvZzkhUftq9YR2b\nfZj/zgiYCuiVrZT1swHlHzGmlntYa2T2JEZfLpLstAME5rgC/1k=\n",
+    "iv": "RCmFL28U1N5ZCZN4\n",
+    "auth_tag": "h0q7olyr0ypA+MfV5FA5ag==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

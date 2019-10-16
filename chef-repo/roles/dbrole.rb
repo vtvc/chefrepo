@@ -1,3 +1,3 @@
 name "dbrole"
-description "my db  role"
-run_list "recipe[java]","recipe[mytestck::mysql]"
+description "An db Chef role"
+run_list "recipe[java]","recipe[mywebserver::mysql]"
