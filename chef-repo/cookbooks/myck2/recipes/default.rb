@@ -5,3 +5,4 @@
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
 include_recipe 'myck2::myrecipe'
+include_recipe 'myck2::mymultipack'
