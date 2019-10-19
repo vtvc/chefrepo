@@ -6,3 +6,9 @@
 
 include_recipe 'myck2::myrecipe'
 include_recipe 'myck2::mymultipack'
+include_recipe 'java'
+include_recipe 'myck2::mysql'
+include_recipe 'chef-client::default'
+
+
+
