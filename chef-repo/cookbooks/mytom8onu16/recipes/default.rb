@@ -12,3 +12,8 @@ include_recipe 'mytom8onu16::extract'
 include_recipe 'mytom8onu16::Permissions'
 include_recipe 'mytom8onu16::mytomconfig'
 include_recipe 'mytom8onu16::tomstart'
+include_recipe 'mytom8onu16::tomconfiguser'
+include_recipe 'mytom8onu16::managegui'
+include_recipe 'mytom8onu16::deploy'
+include_recipe 'mytom8onu16::tomstart'
+

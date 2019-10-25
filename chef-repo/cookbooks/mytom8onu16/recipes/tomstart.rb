@@ -1,6 +1,7 @@
 execute 'name' do
     command 'sudo systemctl daemon-reload'
     action :run
+    not_if{File.exist?('/home/ubuntu/tomstart')}
 end
 
 execute 'name' do
